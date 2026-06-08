@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: minsei-report.ficlab.jp
+Sitemap: https://minsei-report.ficlab.jp/sitemap.xml
